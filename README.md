@@ -23,9 +23,10 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Renadsaud)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/renad-saud/) 
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://outlook.live.com/mail/0/?actSwt=true)' alt='email' height='40'>](https://email.com/https://email.com/RenadSaud7@hotmail.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' logoColor='blue' height='40'>](https://github.com/https://github.com/Renadsaud)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' logoColor='blue' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/renad-saud/) 
+
+
+
 
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/Renadsaud)  
