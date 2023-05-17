@@ -1,6 +1,14 @@
 ### Hi there 👋
-#### Welcome to my GitHub Profile
-## My name is Renad
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <br />
+  <br />
+</div>
+
+
 ![Welcome to my GitHub Profile](https://i.postimg.cc/jdR3ZG5r/VIRTUAL-REALITY-FOR-AUTISM-DISORDER.jpg)
 
 
@@ -29,4 +37,12 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 
 
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Renadsaud)  
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+</viv>
+
+![Visitor Count](https://profile-counter.glitch.me/Renadsaud/count.svg)
+
+
