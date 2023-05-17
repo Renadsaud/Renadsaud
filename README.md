@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img src="images/personal_note.svg" height="50" alt="My Name is Livio and I like Node.js" />
+  <img src="images/personal_note.svg" height="50" alt="My Name is Renad" />
   <br />
   <br />
 </div>
@@ -13,7 +13,6 @@
 <img src="https://i.postimg.cc/jdR3ZG5r/VIRTUAL-REALITY-FOR-AUTISM-DISORDER.jpg"
 </div>
   
-![Welcome to my GitHub Profile](https://i.postimg.cc/jdR3ZG5r/VIRTUAL-REALITY-FOR-AUTISM-DISORDER.jpg)
 
 
 I'm a Computer Science who is passionate about making contributing to open-source more approachable. someone who is always passionate about learning more about tech and life. 
@@ -35,7 +34,7 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' logoColor='blue' height='40'>](https://github.com/https://github.com/Renadsaud)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' logoColor='blue' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/renad-saud/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Renadsaud)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/renad-saud/) 
 
 
 
