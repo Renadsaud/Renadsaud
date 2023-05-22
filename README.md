@@ -29,8 +29,8 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 <img src='https://i.postimg.cc/cCkZmMdY/python.png' alt='Python' height='20'>
 <img src='https://i.postimg.cc/L8dGM0Q5/solidity.jpg' alt='solidity' height='20'>
 <img src='https://i.postimg.cc/rpGkbL8q/C.png' alt='C++' height='20'>
-![HTML](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html&logoColor=ffffff&labelColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css&logoColor=ffffff&labelColor=1572B6) 
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css&logoColor=ffffff&labelColor=1572B6) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
