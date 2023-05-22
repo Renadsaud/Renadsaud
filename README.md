@@ -24,7 +24,7 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![Figma](https://i.postimg.cc/fRpyZZnX/figma.png)](https://postimg.cc/rDGMCBpF)
-![Java](https://i.postimg.cc/g01gvw9J/java.png)](https://postimg.cc/2qFdYSSR)
+![Java](https://i.postimg.cc/g01gvw9J/java.png)](https://postimg.cc/2qFdYSSR?tr=w-200)
 ![Swift](https://i.postimg.cc/xd3w5yRC/swift.png)](https://postimg.cc/Z90sKNXt)
 ![Python](https://i.postimg.cc/cCkZmMdY/python.png)](https://postimg.cc/LgPr4PY6)
 ![Solidity](https://i.postimg.cc/L8dGM0Q5/solidity.jpg)](https://postimg.cc/ppZsfkHM)
