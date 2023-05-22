@@ -25,7 +25,7 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 <img src='https://i.postimg.cc/fRpyZZnX/figma.png' alt='figma' height='20'>
 <img src='https://i.postimg.cc/g01gvw9J/java.png' alt='java' height='20'>
-<img src='https://i.postimg.cc/xd3w5yRC/swift.png' alt='swift' height='20'>
+<img src='https://i.postimg.cc/xd3w5yRC/swift.png' alt='swift' Width='20' height='20'>
 <img src='https://i.postimg.cc/cCkZmMdY/python.png' alt='Python' height='20'>
 <img src='https://i.postimg.cc/L8dGM0Q5/solidity.jpg' alt='solidity' height='20'>
 <img src='https://i.postimg.cc/rpGkbL8q/C.png' alt='C++' height='20'>
