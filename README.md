@@ -25,8 +25,8 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![Figma](https://i.postimg.cc/fRpyZZnX/figma.png)](https://postimg.cc/rDGMCBpF)
 ![Java](https://i.postimg.cc/g01gvw9J/java.png?style=flat&logo=javascript&width=100&height=100)
-![Swift](https://i.postimg.cc/xd3w5yRC/swift.png)](https://postimg.cc/Z90sKNXt)
-
+<img src='https://i.postimg.cc/xd3w5yRC/swift.png' alt='swift' height='20'>
+<img src='https://i.postimg.cc/cCkZmMdY/python.png' alt='Python' height='20'>
 ![Solidity](https://i.postimg.cc/L8dGM0Q5/solidity.jpg)](https://postimg.cc/ppZsfkHM)
 ![C++](https://i.postimg.cc/rpGkbL8q/C.png)](https://postimg.cc/zLf6b6bQ)
 ![HTML](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
@@ -37,17 +37,14 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 ![SQL](https://i.postimg.cc/sXFJMtSG/sql.png)](https://postimg.cc/KKNTVp0m)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-<img src='https://i.postimg.cc/cCkZmMdY/python.png' alt='Python' height='20'>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Renadsaud)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/renad-saud/) 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Renadsaud) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/renad-saud/) 
 
 
 
 <div align="center">
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 </viv>
