@@ -37,7 +37,7 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 ![SQL](https://i.postimg.cc/sXFJMtSG/sql.png)](https://postimg.cc/KKNTVp0m)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-<img src='https://i.postimg.cc/cCkZmMdY/python.png' alt='Python' height='40'>
+<img Python src='https://i.postimg.cc/cCkZmMdY/python.png' alt='Python' height='40'>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Renadsaud)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/renad-saud/) 
