@@ -27,14 +27,14 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 <img src='https://i.postimg.cc/g01gvw9J/java.png' alt='java' height='20'>
 <img src='https://i.postimg.cc/xd3w5yRC/swift.png' alt='swift' height='20'>
 <img src='https://i.postimg.cc/cCkZmMdY/python.png' alt='Python' height='20'>
-![Solidity](https://i.postimg.cc/L8dGM0Q5/solidity.jpg)](https://postimg.cc/ppZsfkHM)
-![C++](https://i.postimg.cc/rpGkbL8q/C.png)](https://postimg.cc/zLf6b6bQ)
-![HTML](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+<img src='https://i.postimg.cc/L8dGM0Q5/solidity.jpg' alt='solidity' height='20'>
+<img src='https://i.postimg.cc/rpGkbL8q/C.png' alt='C++' height='20'>
+![HTML](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html&logoColor=ffffff&labelColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css&logoColor=ffffff&labelColor=1572B6) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![SQL](https://i.postimg.cc/sXFJMtSG/sql.png)](https://postimg.cc/KKNTVp0m)
+<img src='https://i.postimg.cc/sXFJMtSG/sql.png' alt='sql' height='20'>
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 
