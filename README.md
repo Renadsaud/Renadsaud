@@ -42,8 +42,10 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 ##### 💪 Databases and Cloud Hosting
 
 <p>
-  <img src='https://i.postimg.cc/sXFJMtSG/sql.png' alt='sql' height='20'>
-  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg' alt='sql' height='20'>
+ <a href="#">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-2c292d.svg?style=for-the-badge&logo=sql&logoColor=ffffff">
+</a>
+
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-2c292d?style=for-the-badge&logo=mysql&logoColor=ffffff"></a>
 </p>
 
