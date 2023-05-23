@@ -23,10 +23,17 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 
 ##### 💪 Programming Languages
 <p>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-2c292d.svg?style=for-the-badge&logo=java&logoColor=ffffff"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-2c292d.svg?style=for-the-badge&logo=python&logoColor=ffffff"></a>
-  
- </p>
+<a href="#">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white"></a>
+<a href="#">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"></a>
+<a href="#">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7848.svg?style=for-the-badge&logo=Swift&logoColor=white"></a>
+<a href="#">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-007ACC.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
+<a href="#">
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-41B883.svg?style=for-the-badge&logo=Solidity&logoColor=white"></a>
+  </p>
  
 ##### 💪 Web Development
 <p>
