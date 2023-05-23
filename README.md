@@ -57,12 +57,18 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 ##### 💪 Software and Tools
 
 <p>
-   a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-  
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-2c292d.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"></a>
+  <a href="#">
+  <img alt="Git" src="https://img.shields.io/badge/Git-2c292d.svg?style=for-the-badge&logo=git&logoColor=ffffff"> </a>
+<a href="#">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-2c292d.svg?style=for-the-badge&logo=github&logoColor=ffffff"> </a>
+ <a href="#">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-2c292d.svg?style=for-the-badge&logo=figma&logoColor=ffffff"> </a>
+<a href="#">
+  <img alt="Adobe" src="https://img.shields.io/badge/Adobe-2c292d.svg?style=for-the-badge&logo=adobe&logoColor=ffffff"> </a>
+<a href="#">
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-2c292d.svg?style=for-the-badge&logo=unity&logoColor=ffffff"> </a>
+<a href="#">
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-2c292d.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"></a>
 </p>
 
 <br>
