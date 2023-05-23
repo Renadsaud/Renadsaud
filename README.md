@@ -80,18 +80,12 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 <br>
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 <p>
-  <a href="https://www.linkedin.com/in/renad-saud/"><img src="[https://img.shields.io/badge/linkedin-0077B5.svg](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)?style=for-the-badge&logo=linkedin&logoColor=ffffff"></a>
+  <a href="https://www.linkedin.com/in/renad-saud">
+  <img src="https://img.shields.io/badge/linkedin-007bb8.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    <a href="mailto:renad.saud.RenadSaud7@hotmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=HotMail&logoColor=ffffff"/></a>
 </p
 
   
-  
-
-<!--
-  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Renadsaud) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/renad-saud/) 
-
--->
 
 <div align="center">
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
