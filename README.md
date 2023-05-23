@@ -45,12 +45,13 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 
 ##### 💪 Databases and Cloud Hosting
 
-<p>
- <a href="#">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-2c292d.svg?style=for-the-badge&logo=sql&logoColor=ffffff">
-</a>
-
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-2c292d?style=for-the-badge&logo=mysql&logoColor=ffffff"></a>
+<<p>
+  <a href="#">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-2c292d.svg?style=for-the-badge&logo=sql&logoColor=ffffff"> </a>
+  <a href="#">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-2c292d.svg?style=for-the-badge&logo=mysql&logoColor=ffffff"> </a>
+  <a href="#">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-2c292d.svg?style=for-the-badge&logo=mongodb&logoColor=ffffff"> </a>
 </p>
 
 ##### 💪 Software and Tools
