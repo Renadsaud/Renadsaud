@@ -13,6 +13,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=My+Name+is+Renad+CS&center=true&width=380&height=45"></a>
 </p>
 
+
+
 I'm a Computer Science who is passionate about making contributing to open-source more approachable. someone who is always passionate about learning more about tech and life. 
 
 
@@ -31,7 +33,6 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-2c292d.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=ffffff"></a>
 
 ##### 💪 Frameworks and Libraries
-
 <p>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-2c292d.svg?style=for-the-badge&logo=numpy&logoColor=ffffff"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2c292d?style=for-the-badge&logo=bootstrap&logoColor=ffffff"></a>
@@ -41,21 +42,27 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 ##### 💪 Databases and Cloud Hosting
 
 <p>
+  <img src='https://i.postimg.cc/sXFJMtSG/sql.png' alt='sql' height='20'>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-2c292d?style=for-the-badge&logo=mysql&logoColor=ffffff"></a>
+     <a href="#"><img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg&logo=mongodb&logoColor=ffffff"></a>
+     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-2c292d?style=for-the-badge&logo=mysql&logoColor=ffffff"></a>
   
 </p>
 
 ##### 💪 Software and Tools
 
 <p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-2c292d.svg?style=for-the-badge&logo=adobe&logoColor=ffffff"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-2c292d.svg?style=for-the-badge&logo=git&logoColor=ffffff"></a>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-2c292d.svg?style=for-the-badge&logo=github&logoColor=ffffff"></a>
+   a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+  
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-2c292d.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"></a>
 </p>
 
 <br>
-<h2> <img src='https://github.com/https://github.com/Renadsaud' width="80"> Connect with me </h2>
+<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 <p>
   <a href="https://www.linkedin.com/in/www.linkedin.com/in/renad-saud/"><img src="[https://img.shields.io/badge/linkedin-0077B5.svg](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
    <a href="mailto:ahmed.nageeb.mahmoud.hssan@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
