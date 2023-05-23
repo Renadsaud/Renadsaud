@@ -24,15 +24,15 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 ##### 💪 Programming Languages
 <p>
 <a href="#">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white"></a>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=Java&logoColor=ffffff"></a>
 <a href="#">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"></a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=ffffff"></a>
 <a href="#">
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7848.svg?style=for-the-badge&logo=Swift&logoColor=white"></a>
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7848.svg?style=for-the-badge&logo=Swift&logoColor=ffffff"></a>
 <a href="#">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-007ACC.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-007ACC.svg?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff"></a>
 <a href="#">
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-41B883.svg?style=for-the-badge&logo=Solidity&logoColor=white"></a>
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-41B883.svg?style=for-the-badge&logo=Solidity&logoColor=ffffff"></a>
   </p>
  
 ##### 💪 Web Development
