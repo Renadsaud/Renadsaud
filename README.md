@@ -45,7 +45,7 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
 
 ##### 💪 Databases and Cloud Hosting
 
-<<p>
+<p>
   <a href="#">
 <img alt="SQL" src="https://img.shields.io/badge/SQL-2c292d.svg?style=for-the-badge&logo=sql&logoColor=ffffff"> </a>
   <a href="#">
