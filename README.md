@@ -2,21 +2,23 @@
 <br>
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
+  <br>
+  <br>
 </div>
 
-<br/>
+ <!------------------------------------------------------------------------------------------->
+ 
+<br>
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=My+Name+is+Renad+CS&center=true&width=380&height=45"></a>
 </p>
 
-
+<!------------------------------------------------------------------------------------------->
 
 I'm a Computer Science who is passionate about making contributing to open-source more approachable. someone who is always passionate about learning more about tech and life. 
 
-
-
+ <!------------------------------------------------------------------------------------------->
+ 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> <br>
 
 ##### 💪 Programming Languages
@@ -76,6 +78,7 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-2c292d.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"></a>
 </p>
 
+ <!------------------------------------------------------------------------------------------->
 
 <br>
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
@@ -83,9 +86,11 @@ I'm a Computer Science who is passionate about making contributing to open-sourc
   <a href="https://www.linkedin.com/in/renad-saud">
   <img src="https://img.shields.io/badge/linkedin-007bb8.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    <a href="mailto:renad.saud.RenadSaud7@hotmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=HotMail&logoColor=ffffff"/></a>
+  <a href="https://github.com/Renadsaud">
+  <img src="https://img.shields.io/badge/github-1f4236.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p
 
-  
+  <!------------------------------------------------------------------------------------------->
 
 <div align="center">
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
