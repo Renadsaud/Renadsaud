@@ -8,7 +8,7 @@
 
 <br/>
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=My+Name+is+Renad+CS&center=true&width=380&height=45"></a>
+  <a My Name is href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=My+Name+is+Renad+CS&center=true&width=380&height=45"></a>
 </p>
 
 
